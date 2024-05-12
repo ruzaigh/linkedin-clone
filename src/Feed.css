@@ -1,5 +1,5 @@
 .feed {
-  flex: 0.6;
+  /* flex: 0.6; */
   margin: 0 20px;
 }
 .feed__inputContainer {
@@ -27,4 +27,10 @@
   flex: 1;
   margin-left: 10px;
   outline-width: 0;
+}
+.feed__input > form > button {
+  display: none;
+}
+.feed__inputOptions {
+  display: flex;
 }
