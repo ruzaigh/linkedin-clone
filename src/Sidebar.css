@@ -20,7 +20,6 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  border: 1px solid lightblue;
   border-bottom: 0;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
@@ -33,6 +32,7 @@
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   object-fit: cover;
+  background-color: white;
 }
 .sidebar__stats {
   margin-bottom: 10px;
