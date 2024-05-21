@@ -24,6 +24,7 @@
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   padding-bottom: 10px;
+  background-color: white;
 }
 .sidebar__top > img {
   margin-bottom: -20px;
@@ -32,7 +33,6 @@
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   object-fit: cover;
-  background-color: white;
 }
 .sidebar__stats {
   margin-bottom: 10px;
