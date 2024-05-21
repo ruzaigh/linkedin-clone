@@ -11,6 +11,7 @@ import { useDispatch } from "react-redux";
 import { login } from "./features/user/userSlice";
 import { useEffect } from "react";
 import { logout } from "./features/user/userSlice";
+import Widgets from "./Widgets.js";
 
 function App() {
   const user = useSelector(selectUser);
@@ -44,6 +45,7 @@ function App() {
         <div className="app__body">
           <Sidebar />
           <Feed />
+          <Widgets />
         </div>
       )}
     </div>
