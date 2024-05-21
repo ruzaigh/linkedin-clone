@@ -18,7 +18,7 @@ This application is a simplified front-end clone of LinkedIn. It is built using 
 
 ### Try it out!
 
-You can view and interact with the live application by visiting [LinkedIn Clone](https://linkedin-clone-yoururl.com).
+You can view and interact with the live application by visiting [LinkedIn Clone](https://linkedin-clone-a1fcf.web.app).
 
 ### Local Setup
 
