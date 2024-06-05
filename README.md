@@ -16,10 +16,6 @@ This application is a simplified front-end clone of LinkedIn. It is built using 
 - Firebase Authentication
 - Material-UI Icons
 
-### Try it out!
-
-You can view and interact with the live application by visiting [LinkedIn Clone](https://linkedin-clone-a1fcf.web.app).
-
 ### Local Setup
 
 To run this project locally, clone the repository and install the dependencies:
